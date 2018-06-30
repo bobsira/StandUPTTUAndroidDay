@@ -12,7 +12,7 @@
         android:layout_above="@+id/alarmToggle"
         android:layout_centerHorizontal="true"
         android:layout_margin="8dp"
-        android:text="Stand Up Alarm"
+        android:text="@string/stand_up_alarm"
         android:textAppearance="@style/TextAppearance.AppCompat.Headline"
         app:layout_constraintTop_toTopOf="parent" />
     <ToggleButton
